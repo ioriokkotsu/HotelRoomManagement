@@ -1,0 +1,3 @@
+STANDARD|Alice Smith|alice@example.com|2026-06-15|3|250.0|101|Executive|false|HRM-2025-001|true|CLEANING|Extra Towels,Room cleaned|Transportation
+CONFERENCE|PETRONAS|0191234556|2026-01-03|1|1000.0|Grand Ballroom|700|true|HRM-2025-002|false|AVAILABLE|Not Applicable|Not Applicable
+CONFERENCE|TNB|12345|2026-01-06|1|1000.0|Crystal Hall|260|true|HRM-2025-003|false|AVAILABLE|Not Applicable|Not Applicable
