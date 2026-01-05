@@ -1030,9 +1030,9 @@ public class HotelGUI extends JFrame {
                        "Theme: Hotel Room Management\n\n" +
                        "Group Members:\n" +
                        "1. Mohamad Faiz Fahmi\n" +
-                       "2. [Member 2]\n" +
-                       "3. [Member 3]\n" +
-                       "4. [Member 4]";
+                       "2. Muhammad Anas Muqri\n" +
+                       "3. Muhammad Farouk Rafie\n" +
+                       "4. Muhammad Adam Amsyar\n";
         
         JOptionPane.showMessageDialog(this, about, "About Us", JOptionPane.INFORMATION_MESSAGE);
 
